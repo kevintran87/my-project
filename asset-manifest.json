@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kevintran87.github.io/my-project/static/css/main.9c0d008f.css",
+    "main.js": "/kevintran87.github.io/my-project/static/js/main.86c7bab7.js",
+    "static/js/787.749b4a44.chunk.js": "/kevintran87.github.io/my-project/static/js/787.749b4a44.chunk.js",
+    "static/media/coding.png": "/kevintran87.github.io/my-project/static/media/coding.6d171da87a4854819b72.png",
+    "index.html": "/kevintran87.github.io/my-project/index.html",
+    "main.9c0d008f.css.map": "/kevintran87.github.io/my-project/static/css/main.9c0d008f.css.map",
+    "main.86c7bab7.js.map": "/kevintran87.github.io/my-project/static/js/main.86c7bab7.js.map",
+    "787.749b4a44.chunk.js.map": "/kevintran87.github.io/my-project/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c0d008f.css",
+    "static/js/main.86c7bab7.js"
+  ]
+}
