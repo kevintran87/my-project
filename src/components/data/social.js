@@ -6,14 +6,12 @@ export const SocialData=[
     // },
     {
         platform:"Github",
-        icon: 
-        <i class="devicon-github-original-wordmark colored"></i>,
+        icon: require("../../assets/icons/github.png"),
         link:"https://github.com/kevintran87",
     },
     {
         platform:"LinkedIn",
-        icon: 
-        <i class="devicon-linkedin-plain colored"></i>,
+        icon: require("../../assets/icons/telegram.png"),
         link:"https://www.linkedin.com/in/kevin-tran-b7a96194",
     },
     // {
