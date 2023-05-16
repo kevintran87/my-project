@@ -11,7 +11,7 @@ export const SocialData=[
     },
     {
         platform:"LinkedIn",
-        icon: require("../../assets/icons/telegram.png"),
+        icon: require("../../assets/icons/linkedin.png"),
         link:"https://www.linkedin.com/in/kevin-tran-b7a96194",
     },
     // {
