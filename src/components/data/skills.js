@@ -18,22 +18,29 @@ export const SkillsData = [
         name: "TailwindCSS",
         icon: <i class="devicon-tailwindcss-plain colored"></i>
       },
+      {
+        name: "Bootstrap",
+        icon: <i class="devicon-bootstrap-plain colored"></i>
+      },
     ],
   },
   {
     type: "Other Skills",
     list: [
       {
-        name: "Firebase",
-        icon: <i class="devicon-firebase-plain colored"></i>
+        name: "nodeJS",
+        icon: <i class="devicon-nodejs-plain"></i>
       },
       {
-        name: "Bootstrap",
-        icon: <i class="devicon-bootstrap-plain colored"></i>
+        name: "mySQL",
+        icon: 
+            <i class="devicon-mysql-plain-wordmark colored"></i>
+          
       },
       {
-        name: "Azure",
-        icon: <i class="devicon-azure-plain colored"></i>
+        name: "npm",
+        icon: <i class="devicon-npm-original-wordmark"></i>
+      
       },
     ],
   },
