@@ -2,17 +2,17 @@ export const WorkData = [
     {
         company: "Steris Instrument Management Services" ,
         designation: "Insights Analyst",
-        dateJoining: "2011",
-        dateEnd: "2022",
+        dateJoining: "September 2013",
+        dateEnd: "November 2022",
         // companyLogo: "https://cdn-icons-png.flaticon.com/512/2537/2537338.png",
         companyLogo: require("../../assets/icons/steris.jpeg"),
         work:"Meet with customers to understand challenges and present solutions, identify issues before problems occur, develop a process for improvement, and ensure implementation. Lead Proactive Maintenance Inspections for equipment including flexible endoscopes and surgical devices.",
     },
     {
         company: "University of California, Irvine" ,
-        designation: "Full Stack Developer",
-        dateJoining: "10/22",
-        dateEnd: "02/23",
+        designation: "Full Stack Coding",
+        dateJoining: "October 2022",
+        dateEnd: "February 2023",
         // companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
         companyLogo: require("../../assets/icons/uci.png"),
         work:"HTML/CSS, JavaScript/jQuery, Node.js/Express, React, SQL/NoSQL Databases"
