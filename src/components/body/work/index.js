@@ -13,8 +13,8 @@ function Work() {
         {data.map((item) => {
           return <WorkCard item={item} />;
         })}
-//       </div>
-//     </div>
+      </div>     
+      </div>
   );  
 }
 
