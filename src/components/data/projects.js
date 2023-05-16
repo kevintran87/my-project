@@ -5,7 +5,7 @@ export const ProjectData=[
         about: "An app to help you create a new dish with the leftovers in your fridge, followed by a random cocktail to pair your meal with.",
         tags:["Javascript", "Html/Css", "API"],
         url:"https://the-best-grouppe.github.io/Your-fridge-and-your-bar/",
-        image:"https://combo.staticflickr.com/pw/images/spaceout.gif",
+        image:"https://live.staticflickr.com/65535/52902554702_a294f959cf_b.jpg",
     },
     {
         id:1,
