@@ -22,6 +22,12 @@ export const SkillsData = [
         name: "Bootstrap",
         icon: <i class="devicon-bootstrap-plain colored"></i>
       },
+      {
+        name: "Figma",
+        icon: 
+        <i class="devicon-figma-plain colored"></i>
+      
+      },
     ],
   },
   {
@@ -29,18 +35,40 @@ export const SkillsData = [
     list: [
       {
         name: "nodeJS",
-        icon: <i class="devicon-nodejs-plain"></i>
+        icon: 
+        <i class="devicon-nodejs-plain colored"></i>
       },
       {
-        name: "mySQL",
+        name: "MySQL",
         icon: 
             <i class="devicon-mysql-plain-wordmark colored"></i>
           
       },
       {
         name: "npm",
-        icon: <i class="devicon-npm-original-wordmark"></i>
+        icon: 
+            <i class="devicon-npm-original-wordmark colored"></i>
       
+      
+      },
+      {
+        name: "handlebars",
+        icon: 
+        <i class="devicon-handlebars-plain-wordmark colored"></i>
+      
+      },
+      {
+        name: "MongoDB",
+        icon: 
+        <i class="devicon-mongodb-plain-wordmark colored"></i>
+      
+
+      },
+      {
+        name: "Heroku",
+        icon:
+        <i class="devicon-heroku-original-wordmark colored"></i>
+          
       },
     ],
   },
