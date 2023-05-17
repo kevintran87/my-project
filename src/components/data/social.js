@@ -17,7 +17,7 @@ export const SocialData=[
     {
         platform:"Email",
         icon: require("../../assets/icons/email.png"),
-        link: <a href="k.tran787@gmail.com"></a>
+        link: <a href="k.tran787@gmail.com"></a>,
 
     }
     // {
