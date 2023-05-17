@@ -9,16 +9,21 @@ export const SocialData=[
         icon: require("../../assets/icons/github.png"),
         link:"https://github.com/kevintran87",
     },
+    // {
+    //     platform:"LinkedIn",
+    //     icon: require("../../assets/icons/linkedin.png"),
+    //     link:"https://www.linkedin.com/in/kevin-tran-b7a96194",
+    // },
+    {
+        platform:"Email",
+        icon: require("../../assets/icons/email.png"),
+        link: <a href="mailto:k.tran787@gmail.com"></a>,
+
+    },
     {
         platform:"LinkedIn",
         icon: require("../../assets/icons/linkedin.png"),
         link:"https://www.linkedin.com/in/kevin-tran-b7a96194",
-    },
-    {
-        platform:"Email",
-        icon: require("../../assets/icons/email.png"),
-        link: <a href="k.tran787@gmail.com"></a>,
-
     }
     // {
     //     platform:"Twitter",
